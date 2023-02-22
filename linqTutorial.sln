@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "linqTutorial", "linqTutorial\linqTutorial.csproj", "{3C681613-2200-498E-A173-ED91C0CBDBC9}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SalesLib", "..\SalesSQLtutorial\SalesLib\SalesLib.csproj", "{A9F55822-58E4-46BB-9E85-D246728A5070}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3C681613-2200-498E-A173-ED91C0CBDBC9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3C681613-2200-498E-A173-ED91C0CBDBC9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3C681613-2200-498E-A173-ED91C0CBDBC9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3C681613-2200-498E-A173-ED91C0CBDBC9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A9F55822-58E4-46BB-9E85-D246728A5070}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A9F55822-58E4-46BB-9E85-D246728A5070}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A9F55822-58E4-46BB-9E85-D246728A5070}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A9F55822-58E4-46BB-9E85-D246728A5070}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C28996D9-1B44-4CDF-AD9A-9FD6EBBA0C9D}
+	EndGlobalSection
+EndGlobal
